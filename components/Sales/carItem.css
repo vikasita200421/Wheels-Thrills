@@ -1,0 +1,45 @@
+/* src/components/Sales/carItem.css */
+
+.car-item img {
+    width: 100%;
+    height: auto;
+  }
+
+  .car-item {
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .car-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .car-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  .car-item {
+    cursor: pointer;
+    /* other styles */
+  }
+
+  .car-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .car-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .car-image {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  

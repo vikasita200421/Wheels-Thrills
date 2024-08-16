@@ -1,0 +1,70 @@
+/* Styles for the service cards */
+.service-card {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    overflow: hidden;
+  }
+  
+  .service-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .service-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .service-card h3 {
+    margin-top: 15px;
+    font-size: 1.5rem;
+    color: #343a40;
+  }
+  
+  .service-card p {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .service-card .btn {
+    margin-top: 15px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .service-card .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styles for the modal and iframe */
+  .modal-content {
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .modal-header {
+    background-color: #007bff;
+    color: white;
+    border-bottom: none;
+  }
+  
+  .modal-title {
+    font-size: 1.25rem;
+  }
+  
+  .modal-body {
+    padding: 0;
+  }
+  
+  iframe {
+    border-radius: 0 0 8px 8px;
+  }
+  

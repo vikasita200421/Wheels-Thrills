@@ -1,0 +1,77 @@
+.insurance-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .insurance-options {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+  }
+  
+  .insurance-options .btn {
+    width: 60%;
+    padding: 15px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+
+  .insurance-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .insurance-options {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+  }
+  
+  .insurance-options .btn {
+    width: 60%;
+    padding: 15px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .insurance-details {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  /* InsurancePage.css */
+.insurance-page {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.insurance-options button {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.insurance-details {
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+
+.payment-btn {
+  margin: 10px 0;
+}
+
+  
