@@ -1,4 +1,4 @@
-## 'Rent a Car' application created by React and Google Firebase
+## 'WHEELS & THRILLS' application created by React and Google Firebase
 <ul>
     <li>
         ✔️-> React Bootstrap and SASS for responsive development
